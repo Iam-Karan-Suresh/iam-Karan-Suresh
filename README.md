@@ -13,11 +13,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Full-stack Projects and Cloud Deployments**
+ 🔭 I’m currently working on **Golang and Cloud Deployments**
  
  🌱 I’m currently learning **Advanced DevOps and Microservices**
 
- 👯 I’m looking to collaborate on **Cloud-native and MERN stack projects**
+ 
 
  📫 How to reach me **karansuresh.info@gmail.com**
 
