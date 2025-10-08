@@ -9,7 +9,7 @@
 
 <br/>
 
-![Working on Golang]![heavylifting](https://github.com/user-attachments/assets/067396ff-4782-42ec-9412-490c4eb2265f)
+![heavylifting](https://github.com/user-attachments/assets/067396ff-4782-42ec-9412-490c4eb2265f)
 
 <div align="center">
  
