@@ -43,7 +43,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,github,gitlab,prometheus,grafana,linux,python,go,bash" />
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=nginx,postgres,mongodb,redis,elasticsearch,kafka,rabbitmq,helm,argocd,git,vscode,vim" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,java,react,helm,nginx,postgres,mongodb,redis,elasticsearch" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,argocd,git,vscode,vim" />
 </div>
 
 <br/>
