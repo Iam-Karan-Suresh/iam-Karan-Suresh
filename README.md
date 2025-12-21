@@ -43,7 +43,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode,jenkins,kubernetes,nginx,trivy,sonarqube,terraform,argocd" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode,jenkins,kubernetes,nginx,trivy,sonarqube,terraform,argocd,typescript,helm,kustomize" />
 </div>
 
 <br/>
