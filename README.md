@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+[Your+Name]!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Karan S !;" />
 </h1>
 
-<h3 align="center">Senior DevOps Engineer | Cloud Architecture | Infrastructure Automation</h3>
+<h3 align="center"> DevOps Engineer | Cloud Infrastructure | Infrastructure Automation</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
  💡 Passionate about **Automation, Observability & Security**
 
- 📫 Reach me at **your.email@example.com**
+ 📫 Reach me at **karansuresh.info@gmail.com**
 
  ⚡ Fun fact **I automate everything, including my coffee maker! ☕🤖**
 
@@ -41,11 +41,11 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,github,gitlab,prometheus,grafana,linux,python,go,bash" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,jenkins,github,prometheus,grafana,linux,python" />
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,java,react,helm,nginx,postgres,mongodb,redis,elasticsearch" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,java,react,helm,nginx,postgres,mongodb" />
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,argocd,git,vscode,vim" />
+    <img src="https://skillicons.dev/icons?i=,argocd,git,vscode,vim" />
 </div>
 
 <br/>
@@ -60,11 +60,11 @@
 
 | **Cloud Platforms** | **DevOps Tools** | **Orchestration** |
 |:-------------------:|:----------------:|:-----------------:|
-| AWS, Azure, GCP | Jenkins, GitLab CI, GitHub Actions | Kubernetes, Docker Swarm |
+| AWS, GCP | Jenkins, GitLab CI, GitHub Actions | Kubernete |
 | **IaC & Config Mgmt** | **Monitoring** | **Security** |
-| Terraform, Ansible, Pulumi | Prometheus, Grafana, ELK Stack | Vault, Trivy, SonarQube |
+| Terraform, Ansible | Prometheus, Grafana, ELK Stack | Vault, Trivy, SonarQube |
 | **Languages** | **Databases** | **Methodologies** |
-| Python, Go, Bash, YAML | PostgreSQL, MongoDB, Redis | Agile, CI/CD, GitOps |
+| Python, typescript, Javascript, Java, YAML | PostgreSQL, MongoDB, MySQL | Agile, CI/CD, GitOps |
 
 </div>
 
