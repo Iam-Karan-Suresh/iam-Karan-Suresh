@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+[Karan S] !;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Karan+S!;" />
 </h1>
 
-<h3 align="center"> DevOps Engineer | Cloud Infrastructure | Infrastructure Automation</h3>
+<h3 align="center">DevOps Engineer | Cloud Infrastructure | Infrastructure Automation</h3>
 
 <br/>
 
@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center"> 
-  <a href="mailto:your.karansuresh.info@gmail.com">
+  <a href="mailto:karansuresh.info@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/iam-karan-suresh" target="_blank">
@@ -42,7 +42,7 @@
     <br/><br/>
     <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,java,react,helm,nginx,postgres,mongodb" />
     <br/><br/>
-    <img src="https://skillicons.dev/icons?i=,argocd,git,vscode,vim" />
+    <img src="https://skillicons.dev/icons?i=argocd,git,vscode,vim" />
 </div>
 
 <br/>
@@ -57,11 +57,11 @@
 
 | **Cloud Platforms** | **DevOps Tools** | **Orchestration** |
 |:-------------------:|:----------------:|:-----------------:|
-| AWS, GCP | Jenkins, GitLab CI, GitHub Actions | Kubernete |
+| AWS, GCP | Jenkins, GitLab CI, GitHub Actions | Kubernetes |
 | **IaC & Config Mgmt** | **Monitoring** | **Security** |
 | Terraform, Ansible | Prometheus, Grafana, ELK Stack | Vault, Trivy, SonarQube |
 | **Languages** | **Databases** | **Methodologies** |
-| Python, typescript, Javascript, Java, YAML | PostgreSQL, MongoDB, MySQL | Agile, CI/CD, GitOps |
+| Python, TypeScript, JavaScript, Java, YAML | PostgreSQL, MongoDB, MySQL | Agile, CI/CD, GitOps |
 
 </div>
 
@@ -91,14 +91,51 @@ focus_areas:
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  
+![](https://komarev.com/ghpvc/?username=iam-karan-suresh&style=flat-square&color=blue)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iam-karan-suresh&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-karan-suresh&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-karan-suresh&theme=react"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-karan-suresh&theme=react-dark&hide_border=true&area=true"/>
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">📈 Contribution Stats 📈</h2>
+
+<br/>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iam-karan-suresh&theme=react&hide_border=true)
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iam-karan-suresh&theme=react)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iam-karan-suresh&theme=react&utcOffset=5.5)
+
 </div>
 
 <br/>
