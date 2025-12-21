@@ -98,6 +98,12 @@ focus_areas:
 
 <br/>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iam-karan-suresh&theme=react" alt="GitHub Stats Card"/>
+</p>
+
+<br/>
+
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iam-karan-suresh&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-karan-suresh&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
@@ -113,29 +119,6 @@ focus_areas:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-karan-suresh&theme=react-dark&hide_border=true&area=true"/>
-</div>
-
-<br/>
-
----
-
-<h2 align="center">📈 Contribution Stats 📈</h2>
-
-<br/>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iam-karan-suresh&theme=react&hide_border=true)
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iam-karan-suresh&theme=react)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iam-karan-suresh&theme=react&utcOffset=5.5)
-
 </div>
 
 <br/>
