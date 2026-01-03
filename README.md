@@ -38,7 +38,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,jenkins,github,prometheus,grafana,linux,python" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,Argo CD, Argo Rollout,terraform,ansible,jenkins,github,prometheus,grafana,linux,python" />
     <br/><br/>
     <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,java,react,helm,nginx,postgres,mongodb" />
     <br/><br/>
