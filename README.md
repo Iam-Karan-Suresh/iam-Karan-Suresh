@@ -57,7 +57,7 @@
 
 | **Cloud Platforms** | **DevOps Tools** | **Orchestration** |
 |:-------------------:|:----------------:|:-----------------:|
-| AWS, GCP | Jenkins, GitLab CI, GitHub Actions | Kubernetes |
+| AWS, GCP | Jenkins, Argo CD, Argo Rollout, GitHub Actions | Kubernetes |
 | **IaC & Config Mgmt** | **Monitoring** | **Security** |
 | Terraform, Ansible | Prometheus, Grafana, ELK Stack | Vault, Trivy, SonarQube |
 | **Languages** | **Databases** | **Methodologies** |
