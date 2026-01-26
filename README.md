@@ -61,7 +61,7 @@
 | **IaC & Config Mgmt** | **Monitoring** | **Security** |
 | Terraform, Ansible | Prometheus, Grafana, ELK Stack | Vault, Trivy, SonarQube |
 | **Languages** | **Databases** | **Methodologies** |
-| Python, TypeScript, JavaScript, Java, YAML | PostgreSQL, MongoDB, MySQL | Agile, CI/CD, GitOps |
+| Python, TypeScript, JavaScript, Java, YAML, Golang | PostgreSQL, MongoDB, MySQL | Agile, CI/CD, GitOps |
 
 </div>
 
