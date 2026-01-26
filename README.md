@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 Currently working on **Cloud-Native Infrastructure & Platform Engineering**
+ 🔭 Currently working on **Cloud-Native Infrastructure, Platform Engineering, Open-Source Development**
  
  🌱 Exploring **GitOps, Service Mesh & FinOps**
 
