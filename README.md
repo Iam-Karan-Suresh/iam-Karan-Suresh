@@ -1,4 +1,4 @@
-# Karan S
+# Karan Suresh
 
 **DevOps Engineer | Cloud Infrastructure | Open Source Contributor**
 
