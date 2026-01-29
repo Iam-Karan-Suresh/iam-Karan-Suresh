@@ -1,4 +1,4 @@
-# Karan S
+# Karan Suresh
 
 **DevOps Engineer | Open Source Contributor**
 
