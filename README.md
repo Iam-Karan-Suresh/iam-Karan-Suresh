@@ -1,153 +1,65 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Karan+S!;" />
-</h1>
+# Karan S
 
-<h3 align="center">DevOps Engineer | Cloud Infrastructure | Infrastructure Automation | OSS Developer</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 Currently working on **Cloud-Native Infrastructure, Platform Engineering, Open-Source Development**
- 
- 🌱 Exploring **GitOps, Service Mesh & FinOps**
-
- 💡 Passionate about **Automation, Observability & Security**
-
- 📫 Reach me at **karansuresh.info@gmail.com**
-
- ⚡ Fun fact **I automate everything, including my coffee maker! ☕🤖**
-
-</div>
-
-<br/>
-
-<div align="center"> 
-  <a href="mailto:karansuresh.info@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/iam-karan-suresh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+**DevOps Engineer | Cloud Infrastructure | Open Source Contributor**
 
 ---
 
-<h2 align="center">⚒️ Technology Stack ⚒️</h2>
+## About Me
 
-<br/>
+I'm a DevOps engineer specializing in cloud-native infrastructure, automation, and platform engineering. I focus on building scalable, secure, and cost-effective solutions using modern DevOps practices.
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,jenkins,github,prometheus,grafana,linux,python" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,java,react,helm,nginx,postgres,mongodb" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=argocd,git,vscode,vim" />
-</div>
-
-<br/>
+- 🔧 Working on cloud-native infrastructure and platform engineering
+- 🌱 Currently exploring GitOps, service mesh architectures, and FinOps
+- 💡 Passionate about automation, observability, and infrastructure security
+- 📫 Contact: [karansuresh.info@gmail.com](mailto:karansuresh.info@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/iam-karan-suresh](https://linkedin.com/in/iam-karan-suresh)
 
 ---
 
-<h2 align="center">💼 Core Competencies 💼</h2>
+## Technical Skills
 
-<br/>
+**Cloud & Infrastructure**
+- Cloud Platforms: AWS, GCP
+- Container Orchestration: Kubernetes, Docker
+- Infrastructure as Code: Terraform, Ansible
 
-<div align="center">
+**CI/CD & Automation**
+- Jenkins, GitHub Actions, Argo CD, Argo Rollouts
+- GitOps workflows and deployment strategies
 
-| **Cloud Platforms** | **DevOps Tools** | **Orchestration** |
-|:-------------------:|:----------------:|:-----------------:|
-| AWS, GCP | Jenkins, Argo CD, Argo Rollout, GitHub Actions | Kubernetes |
-| **IaC & Config Mgmt** | **Monitoring** | **Security** |
-| Terraform, Ansible | Prometheus, Grafana, ELK Stack | Vault, Trivy, SonarQube |
-| **Languages** | **Databases** | **Methodologies** |
-| Python, TypeScript, JavaScript, Java, YAML, Golang | PostgreSQL, MongoDB, MySQL | Agile, CI/CD, GitOps |
+**Observability & Monitoring**
+- Prometheus, Grafana, ELK Stack
+- Distributed tracing and metrics collection
 
-</div>
+**Security & Compliance**
+- HashiCorp Vault, Trivy, SonarQube
+- Security automation and policy enforcement
 
-<br/>
+**Languages & Scripting**
+- Python, Go, TypeScript, JavaScript, Bash, YAML
 
----
-
-<h2 align="center">🎯 Current Focus Areas 🎯</h2>
-
-<br/>
-
-```yaml
-focus_areas:
-  - Platform Engineering & Developer Experience
-  - Cost Optimization & FinOps
-  - Security Automation & Compliance
-  - Multi-Cloud Architecture
-  - Observability & Site Reliability Engineering
-```
-
-<br/>
+**Databases**
+- PostgreSQL, MongoDB, MySQL
 
 ---
 
-<h2 align="center">📊 GitHub Analytics 📊</h2>
+## Focus Areas
 
-<br/>
-
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=iam-karan-suresh&style=flat-square&color=blue)
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iam-karan-suresh&theme=react" alt="GitHub Stats Card"/>
-</p>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iam-karan-suresh&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-karan-suresh&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-karan-suresh&theme=react"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-karan-suresh&theme=react-dark&hide_border=true&area=true"/>
-</div>
-
-<br/>
+- Platform engineering and developer experience optimization
+- Cost optimization and FinOps implementation
+- Security automation and compliance
+- Multi-cloud architecture design
+- Site reliability engineering and observability
 
 ---
 
-<h2 align="center">📝 Latest Blog Post 📝</h2>
+## Let's Connect
 
-<br/>
+I'm always open to discussing DevOps practices, infrastructure challenges, and open-source collaboration opportunities.
 
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-- [Retail Store App GitOps with Amazon EKS Auto Mode](https://builder.aws.com/content/32xK3nxSQLsaHB3gOg6UGHJit1G/retail-store-app-gitops-with-amazon-eks-auto-mode)
-<!-- BLOG-POST-LIST:END -->
-
-</div>
-
-<br/>
+📧 [karansuresh.info@gmail.com](mailto:karansuresh.info@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/iam-karan-suresh)
 
 ---
 
-<div align="center">
-  <h3>💬 Let's Connect and Build Something Amazing! 🚀</h3>
-  <p>Open to collaborations, discussions on DevOps practices, and knowledge sharing</p>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+*Building reliable infrastructure, one commit at a time.*
