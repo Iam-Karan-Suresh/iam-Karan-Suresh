@@ -1,65 +1,35 @@
-# Karan Suresh
+# Karan S
 
-**DevOps Engineer | Cloud Infrastructure | Open Source Contributor**
+**DevOps Engineer | Open Source Contributor**
 
----
-
-## About Me
-
-I'm a DevOps engineer specializing in cloud-native infrastructure, automation, and platform engineering. I focus on building scalable, secure, and cost-effective solutions using modern DevOps practices.
-
-- 🔧 Working on cloud-native infrastructure and platform engineering
-- 🌱 Currently exploring GitOps, service mesh architectures, and FinOps
-- 💡 Passionate about automation, observability, and infrastructure security
-- 📫 Contact: [karansuresh.info@gmail.com](mailto:karansuresh.info@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/iam-karan-suresh](https://linkedin.com/in/iam-karan-suresh)
+Cloud infrastructure specialist contributing to CNCF projects and building scalable platforms.
 
 ---
 
-## Technical Skills
+## Open Source
 
-**Cloud & Infrastructure**
-- Cloud Platforms: AWS, GCP
-- Container Orchestration: Kubernetes, Docker
-- Infrastructure as Code: Terraform, Ansible
+Active contributor to CNCF ecosystem projects, with a focus on FluxCD and cloud-native tooling.
 
-**CI/CD & Automation**
-- Jenkins, GitHub Actions, Argo CD, Argo Rollouts
-- GitOps workflows and deployment strategies
-
-**Observability & Monitoring**
-- Prometheus, Grafana, ELK Stack
-- Distributed tracing and metrics collection
-
-**Security & Compliance**
-- HashiCorp Vault, Trivy, SonarQube
-- Security automation and policy enforcement
-
-**Languages & Scripting**
-- Python, Go, TypeScript, JavaScript, Bash, YAML
-
-**Databases**
-- PostgreSQL, MongoDB, MySQL
+**Languages:** Go, TypeScript, JavaScript
 
 ---
 
-## Focus Areas
+## Skills
 
-- Platform engineering and developer experience optimization
-- Cost optimization and FinOps implementation
-- Security automation and compliance
-- Multi-cloud architecture design
-- Site reliability engineering and observability
+**Infrastructure & Cloud**  
+AWS • GCP • Kubernetes • Terraform • Ansible
 
----
+**DevOps & GitOps**  
+FluxCD • Argo CD • Jenkins • GitHub Actions
 
-## Let's Connect
+**Observability**  
+Prometheus • Grafana • ELK Stack
 
-I'm always open to discussing DevOps practices, infrastructure challenges, and open-source collaboration opportunities.
-
-📧 [karansuresh.info@gmail.com](mailto:karansuresh.info@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/iam-karan-suresh)
+**Security**  
+Vault • Trivy • SonarQube
 
 ---
 
-*Building reliable infrastructure, one commit at a time.*
+## Contact
+
+[karansuresh.info@gmail.com](mailto:karansuresh.info@gmail.com) • [LinkedIn](https://linkedin.com/in/iam-karan-suresh)
