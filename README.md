@@ -1,35 +1,59 @@
 # Karan Suresh
 
-**DevOps Engineer | Open Source Contributor**
+**DevOps Engineer · Open Source Contributor · Cloud Native**
 
-Cloud infrastructure specialist contributing to CNCF projects and building scalable platforms.
+> Building resilient infrastructure. Shipping real code to projects engineers depend on.
 
 ---
 
 ## Open Source
 
-Active contributor to CNCF ecosystem projects, with a focus on FluxCD and cloud-native tooling.
+### [FluxCD](https://github.com/fluxcd/flux2) — CNCF Project
+*Active Contributor · Nov 2025 – Present*
 
-**Languages:** Go, TypeScript, JavaScript
+- Built and extended CLI commands using **Go** and the **Cobra** framework
+- Refactored codebase for consistency, readability, and long-term maintainability
+- Resolved issues and contributed fixes across active repositories
+- Improved technical documentation and developer-facing guides
+- Collaborated with maintainers through PR reviews, issue discussions, and open-source workflows
+
+Contributing to **frontend OSS projects** across the ecosystem — TypeScript, JavaScript, React-based tooling.
 
 ---
 
-## Skills
+## Stack
 
-**Infrastructure & Cloud**  
-AWS • GCP • Kubernetes • Terraform • Ansible
+**Infrastructure & Cloud**
+`AWS` `GCP` `Kubernetes` `Terraform` `Ansible` `Docker`
 
-**DevOps & GitOps**  
-FluxCD • Argo CD • Jenkins • GitHub Actions
+**GitOps & CI/CD**
+`FluxCD` `Argo CD` `GitHub Actions` `Jenkins`
 
-**Observability**  
-Prometheus • Grafana • ELK Stack
+**Languages**
+`Go` `TypeScript` `JavaScript` `Java`
 
-**Security**  
-Vault • Trivy • SonarQube
+**Observability**
+`Prometheus` `Grafana` `ELK Stack`
+
+**Security**
+`Vault` `Trivy` `SonarQube`
+
+**Web**
+`MERN Stack` *(MongoDB · Express · React · Node)*
+
+---
+
+## What I Work On
+
+- Designing and operating **cloud-native infrastructure** on AWS and GCP
+- Implementing **GitOps workflows** with FluxCD and Argo CD at scale
+- Writing real **Go** — CLI tools, automation, open-source contributions
+- Building **end-to-end CI/CD pipelines** for production systems
+- Kubernetes cluster management, networking, and workload orchestration
+- Infrastructure as Code with Terraform — reproducible, version-controlled environments
 
 ---
 
 ## Contact
 
-[karansuresh.info@gmail.com](mailto:karansuresh.info@gmail.com) • [LinkedIn](https://linkedin.com/in/iam-karan-suresh)
+[karansuresh.info@gmail.com](mailto:karansuresh.info@gmail.com) · [LinkedIn](https://linkedin.com/in/iam-karan-suresh)
