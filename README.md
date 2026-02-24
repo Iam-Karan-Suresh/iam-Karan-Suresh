@@ -2,8 +2,6 @@
 
 **DevOps Engineer · Open Source Contributor · Cloud Native**
 
-> Building resilient infrastructure. Shipping real code to projects engineers depend on.
-
 ---
 
 ## Open Source
