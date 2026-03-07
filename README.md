@@ -52,7 +52,7 @@ Contributing to **frontend OSS projects** across the ecosystem — TypeScript, J
 
 ---
 
-###Trust takes years to build, seconds to break, and forever to repair.
+### Trust takes years to build, seconds to break, and forever to repair.
 
 ---
 ## Contact
