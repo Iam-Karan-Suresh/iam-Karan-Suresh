@@ -1,6 +1,6 @@
 # Karan Suresh
 
-**DevOps Engineer · Open Source Contributor · Cloud Native**
+**DevOps & SRE Engineer · Open Source Contributor · Cloud Native**
 
 ---
 
