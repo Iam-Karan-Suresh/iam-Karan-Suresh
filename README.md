@@ -31,7 +31,7 @@ Contributing to **frontend OSS projects** across the ecosystem — TypeScript, J
 `Go` `TypeScript` `JavaScript` `Java`
 
 **Observability**
-`Prometheus` `Grafana` `ELK Stack`
+`Prometheus` `Grafana` `Open Telemetry` `Tempo`
 
 **Security**
 `Vault` `Trivy` `SonarQube`
