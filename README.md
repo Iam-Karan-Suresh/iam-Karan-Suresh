@@ -25,7 +25,7 @@ Contributing to **frontend OSS projects** across the ecosystem — TypeScript, J
 `AWS` `GCP` `Kubernetes` `Terraform` `Ansible` `Docker`
 
 **GitOps & CI/CD**
-`FluxCD` `Argo CD` `GitHub Actions` `Jenkins`
+`FluxCD` `Argo CD` `GitHub Actions` `Jenkins` `Argo Rollout`
 
 **Languages**
 `Go` `TypeScript` `JavaScript` `Java`
