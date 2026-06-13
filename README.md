@@ -51,10 +51,6 @@ Contributing to **frontend OSS projects** across the ecosystem — TypeScript, J
 - Infrastructure as Code with Terraform — reproducible, version-controlled environments
 
 ---
-
-### Trust takes years to build, seconds to break, and forever to repair.
-
----
 ## Contact
 
 [karansuresh.info@gmail.com](mailto:karansuresh.info@gmail.com) · [LinkedIn](https://linkedin.com/in/iam-karan-suresh)
