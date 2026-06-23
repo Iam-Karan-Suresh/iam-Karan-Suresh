@@ -15,7 +15,7 @@
 - Improved technical documentation and developer-facing guides
 - Collaborated with maintainers through PR reviews, issue discussions, and open-source workflows
 
-Contributing to **frontend OSS projects** across the ecosystem — TypeScript, JavaScript, React-based tooling.
+Contributing to **OSS projects** across the ecosystem 
 
 ---
 
